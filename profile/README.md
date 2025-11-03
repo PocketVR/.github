@@ -14,6 +14,11 @@ So, whether you're a coder eager to build new realities, a hardware hacker ready
 
 Get ready to step into new realities, from your pocket! 🫠
 
+# Showcase
+[![DEMO](https://i.ytimg.com/vi/XtXcmvl0Wzw/hqdefault.jpg)](https://www.youtube.com/watch?v=XtXcmvl0Wzw)
+
+[https://www.youtube.com/watch?v=XtXcmvl0Wzw](https://www.youtube.com/watch?v=XtXcmvl0Wzw)
+
 # Contribution
 
 If you want to contribute to PocketVR, you are welcome to do so! You can contribute in several ways:
