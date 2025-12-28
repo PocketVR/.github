@@ -15,9 +15,7 @@ So, whether you're a coder eager to build new realities, a hardware hacker ready
 Get ready to step into new realities, from your pocket! 🫠
 
 # Showcase
-[![DEMO](https://i.ytimg.com/vi/XtXcmvl0Wzw/hqdefault.jpg)](https://www.youtube.com/watch?v=XtXcmvl0Wzw)
-
-[https://www.youtube.com/watch?v=XtXcmvl0Wzw](https://www.youtube.com/watch?v=XtXcmvl0Wzw)
+https://github.com/user-attachments/assets/aa5a6444-db6a-4030-b6bc-0a46a5440e8a
 
 # Contribution
 
